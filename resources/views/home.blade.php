@@ -23,7 +23,7 @@ There is no post till now. Login and write a new post now!!!
     </div>
     <div class="list-group-item">
       <article>
-        {!! str_limit($post->body, $limit = 1500, $end = '....... <a href='.url("/".$post->slug).'>Read More</a>') !!}
+        {!! Str::limit($post->body, $limit = 1500, $end = '....... <a href='.url("/".$post->slug).'>Read More</a>') !!}
       </article>
     </div>
   </div>
