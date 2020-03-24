@@ -9,7 +9,7 @@ what is application?
 
 Demo
 ------------
-Demo is at [Show me demo](https://sweet-blog.herokuapp.com/)
+Demo is at [Show me demo](http://serene-fjord-57767.herokuapp.com/)
 
 Install
 ------------
