@@ -1,7 +1,7 @@
-# simple Blog applicatoin in laravel
+# simple Blog application in laravel
 ------------
 what is application?
-* It is simple blogging app.
+* It is a simple blogging app.
 * users can login/register
 * users can write/update blogs
 * users can read blogs
